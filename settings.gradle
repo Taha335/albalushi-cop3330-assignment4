@@ -1,0 +1,3 @@
+rootProject.name = 'al-balushi-cop3330-assignment4'
+include('App')
+
